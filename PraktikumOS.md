@@ -1,4 +1,4 @@
-**(1)** Langkah-langkah instalasi Ubuntu:
+**1** Langkah-langkah instalasi Ubuntu:
 
 -  Pastikan Pc/Laptop terhubung internet.
 
@@ -26,7 +26,7 @@
   Ubuntu memiliki GUI yang user friendly sehingga cocok untuk pemula.
 
 
-**(2)** Perbedaan Debian 11 dan Debian 12:
+**2** Perbedaan Debian 11 dan Debian 12:
 
 | ASPEK                | DEBIAN 11 (BULLSEYE) | DEBIAN 12 (BOOKWORM)  |
 |----------------------|----------------------|-----------------------|
@@ -40,7 +40,7 @@
 Debian 12 (Bookworm) lebih unggul karena dukungan perangkat keras yang lebih luas, peningkatan keamanan serta versi software yang lebih baru.
 
 
-**(3)** Cek Environment menggunakan CPU-Z:
+**3** Cek Environment menggunakan CPU-Z:
 
 ```bash
 lscpus
