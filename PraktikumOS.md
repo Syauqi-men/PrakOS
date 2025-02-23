@@ -22,7 +22,7 @@
 
 - Jika sudah selesai, masukkan username dan password untuk masuk ke Ubuntu.
 
-  #kesimpulan
+  #kesimpulan:
   Ubuntu memiliki GUI yang user friendly sehingga cocok untuk pemula.
 
 
@@ -36,7 +36,7 @@
 | Perbedaan paket      | LibreOffice 7.0, GNOME 3.38, Python 3.9 | LibreOffice 7.4, GNOME 43, python 3.11 |
 | keamanan             | Opsional             | Diaktifkan secara default |
 
-#kesimpulan
+#kesimpulan:
 Debian 12 (Bookworm) lebih unggul karena dukungan perangkat keras yang lebih luas, peningkatan keamanan serta versi software yang lebih baru.
 
 
@@ -69,7 +69,7 @@ hardinfo
     ```bash
     snap list
     ```
-#kesimpulan
+#kesimpulan:
 masing-masing mempunyai fungsi yang berbeda, sehingga harus menggunakan sesuai dengan kebutuhan. 
 
   
